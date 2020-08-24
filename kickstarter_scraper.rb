@@ -12,4 +12,4 @@ end
 
 create_project_hash
 
-#projects: 
+#projects: kickstarter.css("li.project.grid_4")
